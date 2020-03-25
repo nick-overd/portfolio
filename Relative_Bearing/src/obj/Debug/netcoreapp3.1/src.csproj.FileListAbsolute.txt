@@ -1,0 +1,11 @@
+C:\Users\nic\Documents\Work\Portfolio\Relative_Bearing\src\obj\Debug\netcoreapp3.1\src.csprojAssemblyReference.cache
+C:\Users\nic\Documents\Work\Portfolio\Relative_Bearing\src\obj\Debug\netcoreapp3.1\src.AssemblyInfoInputs.cache
+C:\Users\nic\Documents\Work\Portfolio\Relative_Bearing\src\obj\Debug\netcoreapp3.1\src.AssemblyInfo.cs
+C:\Users\nic\Documents\Work\Portfolio\Relative_Bearing\src\bin\Debug\netcoreapp3.1\src.exe
+C:\Users\nic\Documents\Work\Portfolio\Relative_Bearing\src\bin\Debug\netcoreapp3.1\src.deps.json
+C:\Users\nic\Documents\Work\Portfolio\Relative_Bearing\src\bin\Debug\netcoreapp3.1\src.runtimeconfig.json
+C:\Users\nic\Documents\Work\Portfolio\Relative_Bearing\src\bin\Debug\netcoreapp3.1\src.runtimeconfig.dev.json
+C:\Users\nic\Documents\Work\Portfolio\Relative_Bearing\src\bin\Debug\netcoreapp3.1\src.dll
+C:\Users\nic\Documents\Work\Portfolio\Relative_Bearing\src\bin\Debug\netcoreapp3.1\src.pdb
+C:\Users\nic\Documents\Work\Portfolio\Relative_Bearing\src\obj\Debug\netcoreapp3.1\src.dll
+C:\Users\nic\Documents\Work\Portfolio\Relative_Bearing\src\obj\Debug\netcoreapp3.1\src.pdb
